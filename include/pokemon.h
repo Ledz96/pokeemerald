@@ -119,6 +119,7 @@ struct Pokemon
     u16 speed;
     u16 spAttack;
     u16 spDefense;
+    u8 category;
 };
 
 struct Unknown_806F160_Struct
